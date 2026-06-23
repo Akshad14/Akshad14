@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Akshad Chaudhari 👋
 
-<!--
-**Akshad14/Akshad14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer
 
-Here are some ideas to get you started:
+🧠 Learning Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Backend Development Enthusiast
+
+🤖 AI/ML Learner
+
+🚀 Aspiring Software Development Engineer (SDE)
+
+## Tech Stack
+- Java
+- Python
+- SQL
+- DBMS
+- OOPs
+- Data Structures & Algorithms
+
+## Projects
+- Smart Reminder App
+- Ticket Booking System
+- JobAutoPilot
+
+## Connect With Me
+📧 chaudhariakshad4@gmail.com
+
+💼 LinkedIn: linkedin.com/in/akshadchaudhar14
+
+🐙 GitHub: github.com/Akshad14
