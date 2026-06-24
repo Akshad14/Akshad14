@@ -19,9 +19,12 @@
 - Data Structures & Algorithms
 
 ## Projects
-- Smart Reminder App
+- Conservation AI - Endangered Species Detection & Awareness Platform
+- E-Commerce Order Management API 
 - Ticket Booking System
+- Student Result Management System  (In Progress)
 - JobAutoPilot
+  
 
 ## Connect With Me
 📧 chaudhariakshad4@gmail.com
